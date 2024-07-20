@@ -48,7 +48,7 @@ steps:
     azureSubscription: 'cources' # Replace with your service connection name
     appType: 'webApp'
     WebAppName: 'cources' # Replace with your web app name
-    packageForLinux: '$(Build.ArtifactStagingDirectory)/<your_package>.zip' # Ensure this path is correct
+    packageForLinux: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip'
   displayName: 'Deploy ASP.NET Core project'
 
 # Save build artifacts
