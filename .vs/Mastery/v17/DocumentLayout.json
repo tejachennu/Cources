@@ -1,0 +1,732 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\controllers\\teacherprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\controllers\\teacherprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\tbluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.client\\src\\components\\usersearch.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|solutionrelative:mastery.client\\src\\components\\usersearch.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\controllers\\courcescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\controllers\\courcescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\controllers\\coursecontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\controllers\\coursecontentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\skillmasterycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\skillmasterycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\tblcoursecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\tblcoursecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\tblcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\tblcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.client\\mastery.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|solutionrelative:mastery.client\\mastery.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tejac\\AppData\\Local\\Microsoft\\TypeScript\\5.2\\node_modules\\@types\\react\\index.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.client\\src\\pages\\registration.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|solutionrelative:mastery.client\\src\\pages\\registration.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.client\\src\\pages\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|solutionrelative:mastery.client\\src\\pages\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.client\\src\\pages\\forgotpassword.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|solutionrelative:mastery.client\\src\\pages\\forgotpassword.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.client\\src\\slices\\registerslice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|solutionrelative:mastery.client\\src\\slices\\registerslice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\tblrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\tblrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\tblregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\tblregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\tokenresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\tokenresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\usercred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\usercred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\verificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\verificationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.client\\src\\slices\\otpverificationslice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|solutionrelative:mastery.client\\src\\slices\\otpverificationslice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.client\\src\\pages\\otpverification.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|solutionrelative:mastery.client\\src\\pages\\otpverification.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\tblcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\tblcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\tblrefreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\tblrefreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\tblmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\tblmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\tbldesignation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\tbldesignation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\tblemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\tblemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\tblpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\tblpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\models\\tblproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\models\\tblproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|solutionrelative:mastery.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\mastery.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\mastery.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|solutionrelative:mastery.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.client\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|solutionrelative:mastery.client\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|solutionrelative:mastery.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|solutionrelative:mastery.client\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1800BB1E-11B0-463C-A1DB-B96883D1F869}|mastery.client\\mastery.client.esproj|solutionrelative:mastery.client\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\mastery.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\mastery.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|c:\\users\\tejac\\onedrive\\desktop\\codingspace\\.net\\mastery\\mastery.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E84A560-2B26-4505-B765-D7F7C5D14E02}|Mastery.Server\\Mastery.Server.csproj|solutionrelative:mastery.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TblUser.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblUser.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\TblUser.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblUser.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\TblUser.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:02:03.491Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1361592846:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Controllers\\TeacherProfileController.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Controllers\\TeacherProfileController.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Controllers\\TeacherProfileController.cs",
+              "RelativeToolTip": "Mastery.Server\\Controllers\\TeacherProfileController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwGQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:45:35.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Mastery.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:29:15.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Program.cs",
+              "RelativeToolTip": "Mastery.Server\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:14:07.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseContentController.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Controllers\\CourseContentController.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Controllers\\CourseContentController.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Controllers\\CourseContentController.cs",
+              "RelativeToolTip": "Mastery.Server\\Controllers\\CourseContentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:11:38.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourcesController.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Controllers\\CourcesController.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Controllers\\CourcesController.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Controllers\\CourcesController.cs",
+              "RelativeToolTip": "Mastery.Server\\Controllers\\CourcesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:12:00.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Mastery.Server\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:55:18.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TblCourseContent.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblCourseContent.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\TblCourseContent.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblCourseContent.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\TblCourseContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:35:15.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Mastery.Server\\Controllers\\AccessController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:12:27.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserSearch.jsx",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\Components\\UserSearch.jsx",
+              "RelativeDocumentMoniker": "mastery.client\\src\\Components\\UserSearch.jsx",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\Components\\UserSearch.jsx",
+              "RelativeToolTip": "mastery.client\\src\\Components\\UserSearch.jsx",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-21T13:58:35.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\Category.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:05:41.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SkillMasteryContext.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\SkillMasteryContext.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\SkillMasteryContext.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\SkillMasteryContext.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\SkillMasteryContext.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwDkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:53:26.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "registerSlice.js",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\slices\\registerSlice.js",
+              "RelativeDocumentMoniker": "mastery.client\\src\\slices\\registerSlice.js",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\slices\\registerSlice.js",
+              "RelativeToolTip": "mastery.client\\src\\slices\\registerSlice.js",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-12T04:55:27.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "mastery.client.esproj",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\mastery.client.esproj",
+              "RelativeDocumentMoniker": "mastery.client\\mastery.client.esproj",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\mastery.client.esproj",
+              "RelativeToolTip": "mastery.client\\mastery.client.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-18T17:31:36.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ForgotPassword.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\ForgotPassword.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\ForgotPassword.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\ForgotPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:29:33.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Registration.jsx",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\Pages\\Registration.jsx",
+              "RelativeDocumentMoniker": "mastery.client\\src\\Pages\\Registration.jsx",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\Pages\\Registration.jsx",
+              "RelativeToolTip": "mastery.client\\src\\Pages\\Registration.jsx",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAE4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-09T11:40:34.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VerificationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\VerificationRequest.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\VerificationRequest.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\VerificationRequest.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\VerificationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:50:57.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TblCourse.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblCourse.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\TblCourse.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblCourse.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\TblCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:30:33.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.d.ts",
+              "DocumentMoniker": "C:\\Users\\tejac\\AppData\\Local\\Microsoft\\TypeScript\\5.2\\node_modules\\@types\\react\\index.d.ts",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Microsoft\\TypeScript\\5.2\\node_modules\\@types\\react\\index.d.ts",
+              "ToolTip": "C:\\Users\\tejac\\AppData\\Local\\Microsoft\\TypeScript\\5.2\\node_modules\\@types\\react\\index.d.ts",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Microsoft\\TypeScript\\5.2\\node_modules\\@types\\react\\index.d.ts",
+              "ViewState": "AQIAAMsQAAAAAAAAAAAnwNcQAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-18T17:29:07.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ForgotPassword.jsx",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\Pages\\ForgotPassword.jsx",
+              "RelativeDocumentMoniker": "mastery.client\\src\\Pages\\ForgotPassword.jsx",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\Pages\\ForgotPassword.jsx",
+              "RelativeToolTip": "mastery.client\\src\\Pages\\ForgotPassword.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-12T05:06:10.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\Pages\\Login.jsx",
+              "RelativeDocumentMoniker": "mastery.client\\src\\Pages\\Login.jsx",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\Pages\\Login.jsx",
+              "RelativeToolTip": "mastery.client\\src\\Pages\\Login.jsx",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-12T05:06:12.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TblRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblRegistration.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\TblRegistration.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblRegistration.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\TblRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:47:56.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TblRole.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblRole.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\TblRole.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblRole.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\TblRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:15:30.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TokenResponses.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TokenResponses.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\TokenResponses.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TokenResponses.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\TokenResponses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:00:29.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserCred.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\UserCred.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\UserCred.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\UserCred.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\UserCred.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:01:18.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TblEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblEmployee.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\TblEmployee.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblEmployee.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\TblEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:53:21.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "otpVerificationSlice.js",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\slices\\otpVerificationSlice.js",
+              "RelativeDocumentMoniker": "mastery.client\\src\\slices\\otpVerificationSlice.js",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\slices\\otpVerificationSlice.js",
+              "RelativeToolTip": "mastery.client\\src\\slices\\otpVerificationSlice.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-09T17:25:51.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OtpVerification.jsx",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\Pages\\OtpVerification.jsx",
+              "RelativeDocumentMoniker": "mastery.client\\src\\Pages\\OtpVerification.jsx",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\Pages\\OtpVerification.jsx",
+              "RelativeToolTip": "mastery.client\\src\\Pages\\OtpVerification.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-11T04:31:12.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TblRefreshtoken.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblRefreshtoken.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\TblRefreshtoken.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblRefreshtoken.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\TblRefreshtoken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:06:41.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JWTSetting.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\JWTSetting.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\JWTSetting.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\JWTSetting.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\JWTSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:25:06.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TblCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblCustomer.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\TblCustomer.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblCustomer.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\TblCustomer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:18:16.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TblPermission.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblPermission.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\TblPermission.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblPermission.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\TblPermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:53:20.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TblDesignation.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblDesignation.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\TblDesignation.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblDesignation.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\TblDesignation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:53:22.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TblMenu.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblMenu.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\TblMenu.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblMenu.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\TblMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:53:26.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TblProduct.cs",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblProduct.cs",
+              "RelativeDocumentMoniker": "Mastery.Server\\Models\\TblProduct.cs",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Models\\TblProduct.cs",
+              "RelativeToolTip": "Mastery.Server\\Models\\TblProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:53:19.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Mastery.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Mastery.Server.csproj",
+              "RelativeDocumentMoniker": "Mastery.Server\\Mastery.Server.csproj",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Mastery.Server.csproj",
+              "RelativeToolTip": "Mastery.Server\\Mastery.Server.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T17:40:13.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\index.html",
+              "RelativeDocumentMoniker": "mastery.client\\index.html",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\index.html",
+              "RelativeToolTip": "mastery.client\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-06T18:27:43.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\App.css",
+              "RelativeDocumentMoniker": "mastery.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\src\\App.css",
+              "RelativeToolTip": "mastery.client\\src\\App.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-05T10:19:58.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\package.json",
+              "RelativeDocumentMoniker": "mastery.client\\package.json",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\package.json",
+              "RelativeToolTip": "mastery.client\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T18:11:25.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\tailwind.config.js",
+              "RelativeDocumentMoniker": "mastery.client\\tailwind.config.js",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\tailwind.config.js",
+              "RelativeToolTip": "mastery.client\\tailwind.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-06T18:15:52.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\vite.config.js",
+              "RelativeDocumentMoniker": "mastery.client\\vite.config.js",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\vite.config.js",
+              "RelativeToolTip": "mastery.client\\vite.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-06T18:11:16.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\nuget.config",
+              "RelativeDocumentMoniker": "mastery.client\\nuget.config",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\mastery.client\\nuget.config",
+              "RelativeToolTip": "mastery.client\\nuget.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-06T18:11:22.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Mastery.Server.http",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Mastery.Server.http",
+              "RelativeDocumentMoniker": "Mastery.Server\\Mastery.Server.http",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\Mastery.Server.http",
+              "RelativeToolTip": "Mastery.Server\\Mastery.Server.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-03T18:25:30.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Mastery.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\tejac\\OneDrive\\Desktop\\CodingSpace\\.Net\\Mastery\\Mastery.Server\\appsettings.json",
+              "RelativeToolTip": "Mastery.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T17:45:51.868Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

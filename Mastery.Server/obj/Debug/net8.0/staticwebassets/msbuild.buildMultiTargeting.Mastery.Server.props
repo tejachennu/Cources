@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mastery.Server.props" />
+</Project>
