@@ -45,10 +45,10 @@ steps:
 # Deploy ASP.NET Core project (example, customize as needed)
 - task: AzureRmWebAppDeployment@4
   inputs:
-    azureSubscription: '<Azure Subscription>'
+    azureSubscription: 'cources' # Replace with your service connection name
     appType: 'webApp'
-    WebAppName: '<WebAppName>'
-    packageForLinux: '$(Build.ArtifactStagingDirectory)/<your_package>.zip'
+    WebAppName: 'cources' # Replace with your web app name
+    packageForLinux: '$(Build.ArtifactStagingDirectory)/<your_package>.zip' # Ensure this path is correct
   displayName: 'Deploy ASP.NET Core project'
 
 # Save build artifacts
